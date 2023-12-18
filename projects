@@ -1,0 +1,86 @@
+[
+  {
+    "img": "https://i.postimg.cc/xjztyYY9/foodflow-6447d-web-app-min.png",
+    "liveLink": "https://foodflow-6447d.web.app",
+    "clientLink": "https://github.com/imalriyad/foodflow-client",
+    "serverLink": "https://github.com/imalriyad/foodflow-server",
+    "genre": "mern"
+  },
+  {
+    "img": "https://i.postimg.cc/2y712wQD/contestbud-e8389-web-app-min.png",
+    "liveLink": "https://contestbud-e8389.web.app/",
+    "clientLink": "https://github.com/imalriyad/contestbud-client",
+    "serverLink": "https://github.com/imalriyad/contestbud-server",
+    "genre": "mern"
+  },
+  {
+    "img": "https://i.postimg.cc/zBqj7X9L/bistrobosss-netlify-app-min.png",
+    "liveLink": "https://bistrobosss.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/bistro-boss-client",
+    "serverLink": "https://github.com/imalriyad/bistro-boss-server",
+    "genre": "mern"
+  },
+  {
+    "img": "https://i.postimg.cc/Fzfq0VdF/coffe-store-7a720-web-app-min.png",
+    "liveLink": "https://coffe-store-7a720.web.app/",
+    "clientLink": "https://github.com/imalriyad/coffe-store-client",
+    "serverLink": "https://github.com/imalriyad/Coffe-store-server",
+    "genre": "mern"
+  },
+  {
+    "img": "https://i.postimg.cc/y6D3QPVv/techwares-netlify-app-min.png",
+    "liveLink": "https://techwares.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/techwares-client",
+    "serverLink": "https://github.com/imalriyad/TeachWares-server",
+    "genre": "mern"
+  },
+  {
+    "img": "https://i.postimg.cc/jjF4y0zN/car-doctorss-netlify-app-min.png",
+    "liveLink": "https://car-doctorss.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/Car-Doctor",
+    "serverLink": "https://github.com/imalriyad/cardoctor-server",
+    "genre": "mern"
+  },
+  {
+    "img": "https://i.postimg.cc/G3xVfkqT/rhythmfest-netlify-app-min.png",
+    "liveLink": "https://rhythmfest.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/RhythmFest",
+    "genre": "frontend"
+  },
+  {
+    "img": "https://i.postimg.cc/hv48qyrp/dragonnewsxd-netlify-app-min.png",
+    "liveLink": "https://dragonnewsxd.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/Dragon-news",
+    "genre": "frontend"
+  },
+  {
+    "img": "https://i.postimg.cc/C5CRwXY9/trendhubxd-netlify-app-min.png",
+    "liveLink": "https://trendhubxd.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/TrendHub",
+    "genre": "frontend"
+  },
+  {
+    "img": "https://i.postimg.cc/mgwxL19c/foodbuirst-min.png",
+    "liveLink": "https://imalriyad.github.io/Fruit-Burst/",
+    "clientLink": "https://github.com/imalriyad/Fruit-Burst",
+    "genre": "frontend"
+  },
+  {
+    "img": "https://i.postimg.cc/tTw0v4xz/imalriyad-github-io-Tea-House-min.png",
+    "liveLink": "https://imalriyad.github.io/Tea-House/",
+    "clientLink": "https://github.com/imalriyad/Tea-House",
+    "genre": "frontend"
+  },
+  {
+    "img": "https://i.postimg.cc/h4zxyL3q/bikezone.png",
+    "liveLink": "https://imalriyad.github.io/Biker-Zone/",
+    "clientLink": "https://github.com/imalriyad/Biker-Zone",
+    "genre": "frontend"
+  },
+  {
+    "img": "https://i.postimg.cc/SNz6swB5/legalsolution-min.png",
+    "liveLink": "https://imalriyad.github.io/Legal-Solution/",
+    "clientLink": "https://github.com/imalriyad/Legal-Solution",
+    "genre": "frontend"
+  }
+]
