@@ -55,8 +55,6 @@
     "genre": "frontend"
   }
 ,
- 
- 
   {
     "img": "https://i.postimg.cc/mgwxL19c/foodbuirst-min.png",
     "liveLink": "https://imalriyad.github.io/Fruit-Burst/",
@@ -73,6 +71,12 @@
     "img": "https://i.postimg.cc/h4zxyL3q/bikezone.png",
     "liveLink": "https://imalriyad.github.io/Biker-Zone/",
     "clientLink": "https://github.com/imalriyad/Biker-Zone",
+    "genre": "frontend"
+  },
+{
+    "img": "https://i.postimg.cc/G3xVfkqT/rhythmfest-netlify-app-min.png",
+    "liveLink": "https://rhythmfest.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/RhythmFest",
     "genre": "frontend"
   },
   
