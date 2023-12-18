@@ -41,24 +41,22 @@
     "serverLink": "https://github.com/imalriyad/cardoctor-server",
     "genre": "mern"
   },
-  {
-    "img": "https://i.postimg.cc/G3xVfkqT/rhythmfest-netlify-app-min.png",
-    "liveLink": "https://rhythmfest.netlify.app/",
-    "clientLink": "https://github.com/imalriyad/RhythmFest",
-    "genre": "frontend"
-  },
-  {
-    "img": "https://i.postimg.cc/hv48qyrp/dragonnewsxd-netlify-app-min.png",
-    "liveLink": "https://dragonnewsxd.netlify.app/",
-    "clientLink": "https://github.com/imalriyad/Dragon-news",
-    "genre": "frontend"
-  },
-  {
+
+ {
     "img": "https://i.postimg.cc/C5CRwXY9/trendhubxd-netlify-app-min.png",
     "liveLink": "https://trendhubxd.netlify.app/",
     "clientLink": "https://github.com/imalriyad/TrendHub",
     "genre": "frontend"
   },
+ {
+    "img": "https://i.postimg.cc/SNz6swB5/legalsolution-min.png",
+    "liveLink": "https://imalriyad.github.io/Legal-Solution/",
+    "clientLink": "https://github.com/imalriyad/Legal-Solution",
+    "genre": "frontend"
+  }
+,
+ 
+ 
   {
     "img": "https://i.postimg.cc/mgwxL19c/foodbuirst-min.png",
     "liveLink": "https://imalriyad.github.io/Fruit-Burst/",
@@ -78,9 +76,16 @@
     "genre": "frontend"
   },
   {
-    "img": "https://i.postimg.cc/SNz6swB5/legalsolution-min.png",
-    "liveLink": "https://imalriyad.github.io/Legal-Solution/",
-    "clientLink": "https://github.com/imalriyad/Legal-Solution",
+    "img": "https://i.postimg.cc/G3xVfkqT/rhythmfest-netlify-app-min.png",
+    "liveLink": "https://rhythmfest.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/RhythmFest",
     "genre": "frontend"
-  }
+  },
+ {
+    "img": "https://i.postimg.cc/hv48qyrp/dragonnewsxd-netlify-app-min.png",
+    "liveLink": "https://dragonnewsxd.netlify.app/",
+    "clientLink": "https://github.com/imalriyad/Dragon-news",
+    "genre": "frontend"
+  },
+ 
 ]
